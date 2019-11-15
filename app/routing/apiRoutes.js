@@ -1,4 +1,4 @@
-var friendMatch = require('../data/friends.js');
+var friendMatch = require('../data/friends.js.js.js');
 
 //ROUTING
 // Two Routes with express parameters
